@@ -2,6 +2,8 @@
 
 Українська локалізація для MORDHAU на Windows.
 
+https://github.com/nilzykey/mordhau-ukrainian-localization/releases/tag/v1.0
+
 ## Встановлення
 
 1. Закрийте гру.
